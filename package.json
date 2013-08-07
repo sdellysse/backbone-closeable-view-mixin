@@ -1,0 +1,16 @@
+{
+  "name": "backbone-closeable-view-mixin",
+  "description": "Backbone.View mixin that helps manage and close views.",
+  "keywords": ["backbone", "view"],
+  "version": "0.0.20130806",
+  "main": "src/closeable-view.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/shawndellysse/backbone-closeable-view-mixin.git"
+  },
+  "author": "Shawn Dellysse <sdellysse@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.5.1"
+  }
+}
